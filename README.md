@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @csc530
+- 👋 Hi, I’m @csc530, Christofer Cousins
 - 👀 I’m interested in ... 
   - Computer science and programming (duh)
-  - Making practical apps that I would actually use
+  - Making ~~practical apps~~ I would actually use or fun😁
   - ..?
 - 🌱 I’m currently learning ... Computer Science @[Lakehead-Georgian](https://www.lakeheadgeorgian.ca/programs/computer-science/)
-- 💞️ I’m looking to collaborate on ... any projects really
+- 💞️ I’m looking to collaborate on ... anything really, I'm not picky
 - 📫 How to reach me ... csc530@vivaldi.net
 
 <!---
