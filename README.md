@@ -1,4 +1,4 @@
-# another compsci student devloper
+# another compsci student🫠
 
 [![Christofer's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=csc530&show_icons=true&theme=blueberry#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Cousins's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=csc530&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -11,14 +11,10 @@
 
 🌱 Still learning @[Lakehead-Georgian](https://www.lakeheadgeorgian.ca/programs/computer-science/) for Computer Science  (hope it all pays off)
 
-💞️ Some things I love...
-  - God
-  - Learning
-  - Music
-  - Programming (duh)
+💞️ Some things I love is programming (duh.), helping others, and relaxing😴
 
 
-❎ Please tell me where I went wrong or can improve, it'll mean a lot. And hopefully I can fix it
+❎ Please tell me where I went wrong or how I can improve, it'll mean a lot. And hopefully I can fix it too
 
 📫 Talk to me: csc530@vivaldi.net | csc#7368
 
