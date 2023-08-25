@@ -1,16 +1,25 @@
-# another compsci student🫠
+# Studying computer scientist(?)
 
-🆕 Trying new things I love or interested in (even if it starts off bad :D)
+Hey! It's me Christo**f**er I'm happy to help out in any way I can.
+Full-time student and open to work or job opportunities; I'm surprised you think I'm qualified - I won't let you down😄.
+You can reach me at csc530@vivaldi.net or 󰙯csc530
 
-⌨️ Like CLI apps - I just love their retro style (for windows cuz that's what I have and there are like none :( )
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌱 Still learning @[Lakehead-Georgian](https://www.lakeheadgeorgian.ca/programs/computer-science/) for Computer Science  (hope it all pays off)
+🆕 I'm trying new things and failing a whole lot along my ways pretty mediocrity
 
-💞️ Some things I love is programming (duh.), helping others, and relaxing😴
+🪦 Tried to help the community with some libraries and packages, more of a learning experience for me (another package for the archives😅)
 
-❎ Please tell me where I went wrong or how I can improve, it'll mean a lot. And hopefully I can fix it too
+⌨️ I love my terminal, but stuck in 🪟 right now, but I think my setup is pretty though
 
-📫 Talk to me: csc530@vivaldi.net | csc#7368
+<!-- 🌱 -->
+
+🏫 Still learning @[Lakehead-Georgian](https://www.lakeheadgeorgian.ca/programs/computer-science/) for Computer Science  (hope it all pays off)
+
+💞️ Love others as God loves us, and relax it is okay
+
+❔What is the science of computers, no really!?
+
 
 
 [![Top (code) Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csc530&layout=compact&bg_color=90,242938,7395DF&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
