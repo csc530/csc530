@@ -4,16 +4,17 @@
 
 Hey! It's me Christo**f**er I'm happy to help out in any way I can.
 Full-time student and open to work or job opportunities; I'm surprised you think I'm qualified - I won't let you down😄.
-You can reach me at csc530@vivaldi.net or 󰙯csc530
+You can reach me at csc530@vivaldi.net
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🪴 Growing every day into something great, and greatly waiting..
 
 🖤 Love always
 
 🤪 I'm weird(?) (hope that's ok ❁´◡`❁)
 
-⚒️ working on some [resume template maker](https://github.com/csc530/resume-builder), and hopefully my website-folio-og-thingy(?)
+⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully my website-folio-og-thingy(?)
 
 ❔What is the science of computers, no really!?
 
