@@ -13,6 +13,8 @@ You can reach me at csc530@vivaldi.net or 󰙯csc530
 
 🤪 I'm weird(?) (hope that's ok ❁´◡`❁)
 
+⚒️ working on some [resume template maker](https://github.com/csc530/resume-builder), and hopefully my website-folio-og-thingy(?)
+
 ❔What is the science of computers, no really!?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
