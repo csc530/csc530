@@ -3,7 +3,7 @@
 ## currently - student: last year😬😁
 
 Hey! It's me Christo**f**er I'm happy to help out in any way I can.
-Full-time student and open to work or job opportunities; I'm surprised you think I'm qualified - I won't let you down😄.
+Full-time student to be a computer scientist👨‍🔬.
 You can reach me at csc530@vivaldi.net
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
