@@ -12,7 +12,7 @@ You can reach me at csc530@vivaldi.net
 
 🖤 Love always
 
-🤪 I'm weird, I think? (hope that's ok ❁´◡`❁)
+🤪 ❁´◡`❁
 
 ⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully my website-folio-og-thingy(?)
 
