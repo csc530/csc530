@@ -1,6 +1,6 @@
 # Studying computer-scientist
 
-## currently - student: last year😬😁
+## currently a student: last year😬😁
 
 Hey! It's me Christo**f**er I'm happy to help out in any way I can.
 Full-time student to be a computer scientist👨‍🔬.
