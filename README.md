@@ -14,7 +14,7 @@ You can reach me at csc530@vivaldi.net
 
 🤪 ❁´◡`❁
 
-⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully[my website/portfolio/blog/thing](https://github.com/csc530/my-site) when I feel like it
+⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully[my website/portfolio/blog/thing](https://github.com/csc530/mysite) when I feel like it
 
 🌟 look at my projects/repos, and make issues if you find problems maybe even a star if you like it🥹
 
