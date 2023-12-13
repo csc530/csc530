@@ -3,20 +3,20 @@
 ## currently a student: last year😬😁
 
 Hey! It's me Christo**f**er I'm happy to help out in any way I can.
-Full-time student to be a computer scientist👨‍🔬.
+Full-time student to be a comput~~er~~ations scientist👨‍🔬.
 You can reach me at csc530@vivaldi.net
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🪴 Growing every day into something great, and greatly waiting..
+🪴 Growing every day into something great, and something greatly to be awaited..
 
 🖤 Love always
 
 🤪 ❁´◡`❁
 
-⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully my website-folio-og-thingy(?)
+⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully[my website/portfolio/blog/thing](https://github.com/csc530/my-site) when I feel like it
 
-❔What is the science of computers, no really!?
+🌟 look at my projects/repos, and make issues if you find problems maybe even a star if you like it🥹
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
