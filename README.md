@@ -1,24 +1,24 @@
-# 💻Computer-Scientist👨🏿‍🔬
-
-## currently a student: last year😬😁
+# 💻📜Computer-Scientist👨🏿‍🔬🥳
 
 Hey! It's me, Christo**f**er. I'm happy to help out in any way I can.
-A graduating comput~~er~~ation scientist from Lakehead University and Georgian College.
+A computational scientist and computer programmer from Lakehead University and Georgian College.
+(I graduated🥳🥳 yay!!)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✝️ watered by the rain
+✝️ Love always
 
-🖤 Love always
+🖤 released my [CLI resume builder](https://github.com/csc530/resumer)!!
 
 📨 csc530@vivaldi.net
 
-🤪 ❁´◡`❁
+💸 looking for full-time positions; so if you think I can help or need my services feel free to contact me😄
 
-⚒️ working on a [resume template maker](https://github.com/csc530/resume-builder), and hopefully[my website/portfolio/blog/thing](https://github.com/csc530/mysite) when I feel like it and have time (◕‿◕)♡
+⚒️ working on [my website/portfolio/blog/thing](https://github.com/csc530/mysite) when I feel like it and have time (◕‿◕)♡
 
-🌟 I like my repos, they're my sweet little projects maybe you will too. Go check them out!
+🌟 I like my repos, they're my sweet little projects maybe you will too, check them out!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
