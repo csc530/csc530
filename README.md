@@ -1,6 +1,6 @@
 # Computer-Scientist
 
-Hi, my name is Christo**f**era and I like helping others and learning too, and putting them together is great too :D
+Hi, my name is Christo**f**er and I like helping others and learning too, and putting them together is great too :D
 
 I like coding, but I'm trying to build my programming and deployment skills with my next few projects in GitHub and hopefully get a job cuz of it😄.
 
@@ -15,7 +15,7 @@ I like coding, but I'm trying to build my programming and deployment skills with
 
 🤖 [CLI resume builder](https://github.com/csc530/resumer)!!
 
-📨 [csc530@vivaldi.net](csc530.ca)
+📨 [csc530@vivaldi.net](https://csc530.ca)
 
 💸 
 
