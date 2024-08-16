@@ -1,22 +1,25 @@
-# 💻📜Computer-Scientist👨🏿‍🔬🥳
+# Computer-Scientist
 
-Hey! It's me, Christo**f**er. I'm happy to help out in any way I can.
-A computational scientist and computer programmer from Lakehead University and Georgian College.
-(I graduated🥳🥳 yay!!)
+Hi, my name is Christo**f**era and I like helping others and learning too, and putting them together is great too :D
+
+I like coding, but I'm trying to build my programming and deployment skills with my next few projects in GitHub and hopefully get a job cuz of it😄.
+
+<!-- Since graduating, I've been looking for a job in computer science or where I can at least use some these skills and knowledge I learned from my degree. But the memes were true and my experiences and abilities just don't seem to be enough for these employers. -->
+<!-- like it's been eons since and this is a love letter to family afar off 😂 -->
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✝️ Love always
+🖤 Love always
 
-🖤 released my [CLI resume builder](https://github.com/csc530/resumer)!!
+🤖 [CLI resume builder](https://github.com/csc530/resumer)!!
 
-📨 csc530@vivaldi.net
+📨 [csc530@vivaldi.net](csc530.ca)
 
-💸 looking for full-time positions; so if you think I can help or need my services feel free to contact me😄
+💸 
 
-⚒️ working on [my website/portfolio/blog/thing](https://github.com/csc530/mysite) when I feel like it and have time (◕‿◕)♡
+⚒️ job application tracker, next (I wonder why😅😂)
 
 🌟 I like my repos, they're my sweet little projects maybe you will too, check them out!
 
