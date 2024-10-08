@@ -1,8 +1,8 @@
 # Computer-Scientist
 
-Hi, my name is Christo**f**er and I like helping others and learning too, and putting them together is great too :D
+Hi, my name is Christo**f**er and I like helping others and learning, and putting them together is great too :D
 
-I like coding, but I'm trying to build my programming and deployment skills with my next few projects in GitHub and hopefully get a job cuz of it😄.
+I like coding; currently building my programming and deployment skills.
 
 <!-- Since graduating, I've been looking for a job in computer science or where I can at least use some these skills and knowledge I learned from my degree. But the memes were true and my experiences and abilities just don't seem to be enough for these employers. -->
 <!-- like it's been eons since and this is a love letter to family afar off 😂 -->
@@ -13,15 +13,13 @@ I like coding, but I'm trying to build my programming and deployment skills with
 
 🖤 Love always
 
-🤖 [CLI resume builder](https://github.com/csc530/resumer)!!
-
-📨 [csc530@vivaldi.net](https://csc530.ca)
+📨 csc530@vivaldi.net
 
 💸 
 
-⚒️ job application tracker, next (I wonder why😅😂)
+⚒️ getting employed and contributiong to OSS
 
-🌟 I like my repos, they're my sweet little projects maybe you will too, check them out!
+🌟 I like my repos maybe you will too, check them out!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
