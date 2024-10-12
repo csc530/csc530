@@ -17,7 +17,7 @@ I like coding; currently building my programming and deployment skills.
 
 💸 
 
-⚒️ getting employed and contributiong to OSS
+⚒️ employment and contributiong to OSS
 
 🌟 I like my repos maybe you will too, check them out!
 
