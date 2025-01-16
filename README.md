@@ -24,6 +24,7 @@ I like coding; currently building my programming and deployment skills.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top (code) Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csc530&layout=compact&bg_color=90,242938,7395DF&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+
 **Me and JS are not like that, honest😫 I don't love JS like that I uploaded a responsive mockup for a web class which spat out sooo much generated js 😩*
 
 [![Christofer's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=csc530&show_icons=true&theme=blueberry#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
