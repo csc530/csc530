@@ -1,15 +1,14 @@
 # read me?
 
-> moody feeling, failure, success
+hello!
+Below are some things :)
 
 <!-- Since graduating, I've been looking for a job in computer science or where I can at least use some these skills and knowledge I learned from my degree. But the memes were true and my experiences and abilities just don't seem to be enough for these employers. -->
 <!-- (like it's been eons since and this is a love letter to family afar off 😂) -->
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🖤 all that's important
+🖤 always
 
 🐧 I use Arch btw
 
