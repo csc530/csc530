@@ -1,8 +1,6 @@
 # read me?
 
-Hi, my name is Christo**f**er and I like helping others and learning, but nobody really cares about that. I haven't built anything remarkble and had hope to have gainful employment programming and solving problems, but employment at all is hard to come by (at least for me) so I'll just be honest (I could lie, I'm actually quite good at it, but I do love honesty more)especially at the displeasure of the world that wants me to be dull 😝.
-
-> there is no success without failure and I am no success yet 🙃
+> moody feeling, failure, success
 
 <!-- Since graduating, I've been looking for a job in computer science or where I can at least use some these skills and knowledge I learned from my degree. But the memes were true and my experiences and abilities just don't seem to be enough for these employers. -->
 <!-- (like it's been eons since and this is a love letter to family afar off 😂) -->
@@ -11,7 +9,7 @@ Hi, my name is Christo**f**er and I like helping others and learning, but nobody
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🖤 it's all I got left really
+🖤 all that's important
 
 🐧 I use Arch btw
 
